@@ -7,8 +7,8 @@
 
  <div>
   <a href="https://github.com/YoranDaOne">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YoranDaOne&show_icons=true&theme=monkai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&layout=compact&langs_count=7&theme=monkai"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YoranDaOne&show_icons=true&theme=monkai-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&layout=compact&langs_count=7&theme=monkai-dark"/>
 </div>
   
 </div>
