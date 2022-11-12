@@ -1,14 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+im+Yoran) <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=Research+%26%26+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#60cf30&background=24831200&width=435&lines=Research+%26%26+Development)](https://git.io/typing-svg)
 
 
 ### Hello! I'm Yoran , developer and reverse engineer
 
  <div>
   <a href="https://github.com/YoranDaOne">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YoranDaOne&show_icons=true&theme=monkai-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&layout=compact&langs_count=7&theme=monkai-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YoranDaOne&show_icons=true&theme=Monokai-Dark-Sodadark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&layout=compact&langs_count=7&theme=Monokai-Dark-Soda"/>
 </div>
   
 </div>
