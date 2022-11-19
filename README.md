@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+im+Yoran&color=FD971F) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+im+Yoran&color=f78c6c) 
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60cf30&background=24831200&width=435&lines=Research+%26%26+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f07178&background=24831200&width=435&lines=Research+%26%26+Development)](https://git.io/typing-svg)
 
 ### Hello! I'm Yoran , developer and reverse engineer
 
