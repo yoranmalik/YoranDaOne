@@ -10,6 +10,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   
-</div>
-   <img align="center" alt="cool-stuff" src="https://www.pixel-muc.de/wp-content/uploads/2022/09/ezgif.com-gif-maker-49.gif">
-</div>
