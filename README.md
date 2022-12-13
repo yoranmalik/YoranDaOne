@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
- <img width="150px" src="https://www.imgvb.com/images/2022/12/13/7a41671ee86d17f7e0551397b7586478.th.jpg" align="center" alt="Avator" style="border-radius: 50%" >
+ <img width="150px" src="https://www.imgvb.com/images/2022/12/14/c55d0ba0f602d7829924b58dc6136280.th.png" align="center" alt="Avator" style="border-radius: 50%" >
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=30&color=F49D1A&background=6C00FF00&center=true&vCenter=true&width=435&lines=Yoran+Malik;Research+And+Development)](https://git.io/typing-svg) 
