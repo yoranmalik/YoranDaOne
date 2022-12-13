@@ -5,15 +5,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F49D1A&background=6C00FF00&center=true&vCenter=true&width=435&lines=Yoran+Malik;Research+And+Development)](https://git.io/typing-svg) 
 
  
- <h2 align="center">
+ <h1 align="center">
    <a>
      Yoran Malik
    </a>
- </h2>
+ </h1>
+ <h2>
  <p align="center">
   15 years old boy who loves low level
  </p>
 </p>
+</h2>
+
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UC6qA82UQG33BZxyzAcYvwzQ">
