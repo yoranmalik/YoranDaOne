@@ -34,21 +34,17 @@
 </p>
 
 <p align="center">
- <img src="https://github-widgetbox.vercel.app/api/profile?username=YoranDaOne&data=followers,repositories,stars,commits" align="center" alt="Stats" />
-</p>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YoranDaOne&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+
+</p>
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YoranDaOne&count_private=true&show_icons=true&line_height=46" align="center" alt="Stats" />
- <img src="https://github-contribution-stats.vercel.app/api/?username=YoranDaOne" align="center" alt="Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=YoranDaOne&count_private=true&show_icons=true&line_height=46&theme=gruvbox" align="center" alt="Stats" />
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&layout=compact&langs_count=8&card_width=445" align="center" alt="labgs" />
-</p>
-<p align="center">
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YoranDaOne" />
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoranDaOne&theme=gruvbox)](https://github.com/YoranDaOne/github-readme-stats)
 
 
